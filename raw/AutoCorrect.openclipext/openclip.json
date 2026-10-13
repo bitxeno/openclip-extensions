@@ -9,7 +9,7 @@
   },
   "version": "1.0.0",
   "minOpenClipVersion": "1.1.0",
-  "author": "OpenClip Team",
+  "author": "bitxeno",
   "description": {
     "en": "Format CJK text in the selection with autocorrect: spacing, punctuation, and more.",
     "zh-Hans": "使用 autocorrect 格式化选中文本：中西文自动加空格、标点规范等。",
