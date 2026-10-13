@@ -28,6 +28,6 @@ The selection is piped to the local `autocorrect` process on stdin and never lea
 
 A port of the [AutoCorrect PopClip extension](https://github.com/bitxeno/PopClip-Extensions/tree/master/src/AutoCorrect),
 which pipes stdin through `autocorrect --stdin` and pastes the result, adapted to OpenClip's
-shell-action protocol. The icon mirrors PopClip's `square CJK` icon: a Wen (文) glyph traced from
-the macOS Hiragino Sans GB system font inside a rounded square, kept monochrome so it inherits the
-OpenClip theme colour.
+shell-action protocol. The icon is a hand-drawn original, visually consistent with PopClip's
+`square CJK` icon (a bold "CJK" in a rounded square); it is path-based with no font dependency
+and monochrome so it inherits the OpenClip theme colour.
