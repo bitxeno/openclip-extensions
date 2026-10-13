@@ -1,0 +1,55 @@
+{
+  "identifier": "com.openclip.autocorrect",
+  "name": {
+    "en": "AutoCorrect",
+    "zh-Hans": "AutoCorrect",
+    "zh-Hant": "AutoCorrect",
+    "ja": "AutoCorrect",
+    "fr": "AutoCorrect"
+  },
+  "version": "1.0.0",
+  "minOpenClipVersion": "1.1.0",
+  "author": "OpenClip Team",
+  "description": {
+    "en": "Format CJK text in the selection with autocorrect: spacing, punctuation, and more.",
+    "zh-Hans": "使用 autocorrect 格式化选中文本：中西文自动加空格、标点规范等。",
+    "zh-Hant": "使用 autocorrect 格式化選取文字：中西文自動加入空格、標點規範等。",
+    "ja": "autocorrect で選択テキストをフォーマットします（スペース、句読点など）。",
+    "fr": "Mettre en forme le texte CJK de la sélection avec autocorrect."
+  },
+  "keywords": [
+    "autocorrect",
+    "format",
+    "cjk",
+    "spacing",
+    "punctuation",
+    "格式化",
+    "排版",
+    "フォーマット"
+  ],
+  "action": {
+    "id": "format",
+    "title": {
+      "en": "Formatting CJK",
+      "zh-Hans": "格式化 CJK",
+      "zh-Hant": "格式化 CJK",
+      "ja": "CJK のフォーマット",
+      "fr": "Mise en forme CJK"
+    },
+    "icon": "textformat",
+    "type": "shell",
+    "script": "autocorrect.sh",
+    "output": "text",
+    "result": "paste",
+    "keywords": [
+      "format",
+      "cjk",
+      "spacing",
+      "correct",
+      "格式化",
+      "排版",
+      "フォーマット",
+      "mise en forme"
+    ]
+  }
+}
