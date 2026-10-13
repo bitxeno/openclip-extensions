@@ -36,7 +36,7 @@
       "ja": "CJK のフォーマット",
       "fr": "Mise en forme CJK"
     },
-    "icon": "textformat",
+    "icon": "icon.svg",
     "type": "shell",
     "script": "autocorrect.sh",
     "output": "text",
